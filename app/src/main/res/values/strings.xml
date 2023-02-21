@@ -6,6 +6,7 @@
     <string name="email">Email</string>
     <string name="telefono">Telefono</string>
     <string name="Inicias">Inicia sesión</string>
+    <string name="guardarDatos">Guardar datos</string>
     <string name="Registrate">Registrate</string>
     <string name="Ingresa">Ingresa</string>
 </resources>
